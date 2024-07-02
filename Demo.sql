@@ -32,3 +32,5 @@ insert into studs (NAME,Age,Gender,city,contact)values
 delete from studs where ID = 2;
 
 update studs set city = 'Pollachi', contact =658965425 where ID = 3; 
+
+select * from studs;
